@@ -1,1 +1,1 @@
-- 👋 Hi, I’m @BernhardHu
+👋 Hi, I’m @BernhardHu
